@@ -1,2 +1,7 @@
 *.hash
 MelissaUpdater/
+.venv/
+.idea/
+mdAddr_pythoncode.py
+.DS_Store
+__pycache__/
